@@ -1,1 +1,2 @@
-program to print hello world
+# Startup
+`npm start`
